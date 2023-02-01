@@ -1,4 +1,4 @@
-### Hi there 👋 I am Shruti
+### Hello Folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Shruti
 <p>&nbsp;</p>
 
 About Me:
