@@ -31,7 +31,7 @@ About Me:
 
 • Patient Experience Dashboard: [Link](https://github.com/shrutipatkar25/Patient-Experience-Analysis-Dashboard)
 
-• Dashboard- Blood Bank Directory-India: [Link](https://github.com/shrutipatkar25/Dashboard-Blood-Bank-Directory-India)
+• Dashboard: Blood Bank Directory-India: [Link](https://github.com/shrutipatkar25/Dashboard-Blood-Bank-Directory-India)
 <p>&nbsp;</p>
 
 📚 Courses & Certifications📚
