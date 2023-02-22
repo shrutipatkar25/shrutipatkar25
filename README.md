@@ -30,6 +30,8 @@ About Me:
 • Forecasting Utilization of Medical Procedures: [Link](https://github.com/shrutipatkar25/Utilization-Forecasting-of-Medical-Procedures-using-Excel/tree/main)
 
 • Patient Experience Dashboard: [Link](https://github.com/shrutipatkar25/Patient-Experience-Analysis-Dashboard)
+
+• Dashboard- Blood Bank Directory-India: [Link](https://github.com/shrutipatkar25/Dashboard-Blood-Bank-Directory-India)
 <p>&nbsp;</p>
 
 📚 Courses & Certifications📚
