@@ -21,7 +21,7 @@ About Me:
 • R Programming Language
 <p>&nbsp;</p>
 
-📂 Projects 📂
+📂 Portfolio Projects 📂
 
 • Exploratory Data Analysis on Medicare Spending: [Link](https://github.com/shrutipatkar25/EDA-using-SQL-and-Power-BI)
 
@@ -54,6 +54,17 @@ About Me:
 • TATA Data Visualisation: Empowering Business with Effective Insights
 
 • Quantium- Data Analytics Virtual Experience Program
+<p>&nbsp;</p>
+
+📝 Guided Projects 📝
+
+• Querying databases using SQL SELECT statements
+
+• Mastering SQL Joins
+
+• Introduction to R: Basic R syntax
+
+• Introduction to Data Analysis using Microsoft Excel
 <p>&nbsp;</p>
 
 📫 Find Me 📫
