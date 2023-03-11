@@ -72,4 +72,5 @@ About Me:
 • [LinkedIn](https://www.linkedin.com/in/shruti-patkar-2507p/)
 
 • [Medium](https://medium.com/@shrutipatkar76)
+
 • [NovyPro](https://www.novypro.com/profile_projects/shruti-patkar)
