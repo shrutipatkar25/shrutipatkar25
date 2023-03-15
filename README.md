@@ -43,6 +43,8 @@ About Me:
 • Predictive Analytics with R
 
 • Data Visualization in Power BI
+
+• Learn Excel Power Query, Power Pivot, DAX & Power BI
 <p>&nbsp;</p>
 
 💻 Virtual Internships 💻
@@ -70,6 +72,8 @@ About Me:
 📫 Find Me 📫
 
 • [LinkedIn](https://www.linkedin.com/in/shruti-patkar-2507p/)
+
+• [Portfolio_Website](https://shrutipatkar76.wixsite.com/mysite-1)
 
 • [Medium](https://medium.com/@shrutipatkar76)
 
